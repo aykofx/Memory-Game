@@ -28,8 +28,8 @@ public class MemoryField {
         }
     }
 
-	//das Array für die Karten
-	private MemoryCard[] cards;
+    // Array for the cards
+    private MemoryCard[] cards;
 	
     // Array for the names of the images
     private String[] images = {"graphics/apple.jpg", "graphics/pear.jpg", "graphics/flower.jpg", "graphics/flower2.jpg",
